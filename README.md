@@ -1,0 +1,1 @@
+# Resource-Allocation-Optimization-in-5G-Networks-using-VQR
